@@ -1,0 +1,20 @@
+body
+{width: 800px}
+body
+{
+	border:solid blue 3px;
+	font-family: cursive;
+}
+
+h1
+{
+	text-align:center;
+	font-family: cursive;
+	color:blue; 
+}
+
+h2{color:darkred;}
+strong{color:red;}
+em{color:blue;}
+ul{color:green;}
+
